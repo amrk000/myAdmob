@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">my AdMob</string>
+
+    <!--Definitions-->
+    <string name="def_title_1">eCPM</string>
+    <string name="def_content_1" formatted="true">
+        <b>Effective cost per thousand impressions</b>
+        \nAn estimate of the revenue you receive per 1000 impressions.
+        <i>\n\n Note: eCpm can vary based on available ads costs and users\' countries.</i>
+    </string>
+
+    <string name="def_title_2">Impressions</string>
+    <string name="def_content_2" formatted="true">
+        <b>The total number of ads shown to users</b>
+        \nImpressions are affected by match rate and number of requests made by app users.
+    </string>
+
+    <string name="def_title_3">Match Rate</string>
+    <string name="def_content_3" formatted="true">
+        <b>Percentage of total ads loaded per total requests</b>
+        \nThe higher the eCPM floor the lower the match rate.
+    </string>
+
+    <string name="def_title_4">eCPM Floor</string>
+    <string name="def_content_4" formatted="true">
+        <b>The minimum eCPM that needed to load ads</b>
+        \neCPm Floor affects match rate, impressions and your earnings.
+        \nSetting a high eCPM floor may decrease your ads performance.
+    </string>
+
+    <string name="def_title_5">Automatic Refresh</string>
+    <string name="def_content_5" formatted="true">
+        <b>Time period that needed to request and show a new ad</b>
+       \nIt Determines how often a new ad request is generated for this ad unit and a new ad is shown to the user.
+    </string>
+
+    <string name="def_title_6">Est. earnings</string>
+    <string name="def_content_6" formatted="true">
+        <b>Your earnings accrued so far</b>
+       \nThis amount is an estimate that is subject to change when your earnings are verified for accuracy at the end of every month.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

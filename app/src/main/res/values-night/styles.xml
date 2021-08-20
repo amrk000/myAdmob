@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+        <!--Light theme. -->
+        <style name="AppThemeLight" parent="Theme.AppCompat.Light.DarkActionBar">
+
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+
+            <item name="android:textColorPrimary">@color/textColorPrimary</item>
+            <item name="android:textColorSecondary">@color/textColorSecondary</item>
+
+            <item name="android:navigationBarColor">@color/colorPrimary</item>
+            <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+
+            <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+            <item name="android:dialogTheme">@style/Theme.AppCompat.Light.Dialog</item>
+
+        </style>
+
+        <!--Dark theme. -->
+        <style name="AppThemeDark" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+            <item name="colorPrimary">@color/colorPrimaryDarkMode</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDarkDarkMode</item>
+            <item name="colorAccent">@color/colorAccentDarkMode</item>
+
+            <item name="android:textColorPrimary">@color/textColorPrimaryDarkMode</item>
+            <item name="android:textColorSecondary">@color/textColorSecondaryDarkMode</item>
+
+            <item name="android:navigationBarColor">@color/colorPrimaryDarkMode</item>
+            <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+
+            <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+
+        </style>
+
+        <!--     splash screen-->
+        <style name="splash" parent="Theme.AppCompat.Light.NoActionBar">
+            <!-- Customize your theme here. -->
+            <item name="android:forceDarkAllowed" tools:targetApi="q">true</item>
+            <item name="colorPrimary">@color/colorPrimaryDarkMode</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDarkMode</item>
+            <item name="colorAccent">@color/colorAccent</item>
+            <item name="android:windowBackground">@drawable/splash</item>
+            <item name="android:navigationBarColor">@color/colorPrimaryDarkMode</item>
+
+            <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+
+            <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        </style>
+
+        <style name="TabLayoutStyle" parent="Base.Widget.Design.TabLayout">
+            <item name="android:textSize">16sp</item>
+            <item name="android:textAllCaps">true</item>
+        </style>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Quick Tips-->
+    <string-array name="tips">
+        <item>Make sure that your ads are clearly and fully visible to users</item>
+        <item>Initialize admob only once in your app</item>
+        <item>Don\'t self click your ads. To avoid harming advertisers and getting punished</item>
+        <item>Make sure that your ads aren\'t too close to clickable items to avoid Invalid traffic</item>
+        <item>Don\'t abuse user with too much ads. This will affect user experience and your earnings negatively</item>
+        <item>Users don\'t download ads that show an app! They need free app that may show some ads :)</item>
+        <item>Very high eCPM Floor has bad effect on Match Rate which leads to fewer impressions and lower earnings</item>
+        <item>Interstitial ads may generate more earning than Banner ads by up to 20%</item>
+        <item>Use interstitial ads wisely between activities, while loading or at app exit and don\'t flood user with them</item>
+        <item>Setup test device in admob before using your app that contain ads on your phone to avoid Invalid traffic</item>
+        <item>you can promote your apps, websites, or run ads that you\'ve directly negotiated with advertisers using Admob Campaigns.</item>
+    </string-array>
+
+</resources>

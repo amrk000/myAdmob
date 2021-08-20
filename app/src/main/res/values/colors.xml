@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--lightTheme-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#F14637</color>
+
+    <color name="textColorPrimary">#292929</color>
+    <color name="textColorSecondary">#777777</color>
+
+    <!--darkTheme-->
+    <color name="colorPrimaryDarkMode">#191919</color>
+    <color name="colorPrimaryDarkDarkMode">#191919</color>
+    <color name="colorAccentDarkMode">#FF5447</color>
+
+    <color name="textColorPrimaryDarkMode">#FFFFFF</color>
+    <color name="textColorSecondaryDarkMode">#777777</color>
+
+</resources>
