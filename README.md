@@ -9,7 +9,7 @@
 <ul>
 <li>optimized admob browser.</li>
 <li>track your earnings & control your account.</li>
-<li>preview and test your ad unites with ad preview tool</li>
+<li>preview and test your ad units with ad preview tool.</li>
 <li>get tips & definitions explaination.</li>
 <li>Supports dark mode.</li>
 </ul>
