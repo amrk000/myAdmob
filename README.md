@@ -14,6 +14,14 @@
 <li>Supports dark mode.</li>
 </ul>
   
+ <h2>Implementation Highlights:</h2>
+<ul>
+<li>Using & Handling WebView</li>
+<li>Manual DarkMode Setting</li>
+<li>ViewPager + Tabs</li>
+<li>Admob Banners & interstitial</li>
+</ul>
+  
   </br></br>
   <div align="center">
   <h2><a href="https://github.com/amrk000/myAdmob/files/7023504/my.AdMob.zip">Download App</a></h2>
